@@ -14,7 +14,10 @@
 ### Collection I • Classic HiFi Audio Designs (1980-1995)
 
 </p>
----
+<p align="center">
+<img src="images/RTAL_PreAmp_Power-Amplifier.jpg" width="900">
+
+Figure 1 – High End PreAmp with Power Amp
 
 # Volume I
 
@@ -53,7 +56,7 @@ published for education, preservation and inspiration.
 <p align="center">
 <img src="images/front.jpg" width="900">
 
-   *Figure 1 – High End PreAmp Frontview*
+   *Figure 2 – High End PreAmp Frontview*
 
 </p>
 
