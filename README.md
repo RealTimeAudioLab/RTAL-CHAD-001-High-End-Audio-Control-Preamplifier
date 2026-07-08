@@ -19,6 +19,12 @@
 
 Figure 1 – High End PreAmp with Power Amp
 
+</p>
+<p align="center">
+<img src="images/RTAL_Studio_4.jpg" width="900">
+
+Figure 2 - Complete HiFi System 1991
+
 # Volume I
 
 # RTAL-CHAD-001
