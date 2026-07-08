@@ -62,7 +62,7 @@ published for education, preservation and inspiration.
 <p align="center">
 <img src="images/front.jpg" width="900">
 
-   *Figure 2 – High End PreAmp Frontview*
+   *Figure 3 – High End PreAmp Frontview*
 
 </p>
 
